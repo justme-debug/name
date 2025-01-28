@@ -51,6 +51,5 @@ information, read this repository's [LICENSE][LICENSE].
 [MPL]: https://www.mozilla.org/MPL/
 [LICENSE]: https://github.com/mozilla/bedrock/blob/main/LICENSE
 
-![](http://i.imgur.com/ElotJSI.jpg)
 
 credit [@designerham](https://github.com/designerham)
